@@ -1,5 +1,5 @@
 # 09011282328108_rayyiseptiany_praktikum6
-
+![s1](https://github.com/user-attachments/assets/f1618a73-9922-468b-890d-75ea027fe010)
 ![s2](https://github.com/user-attachments/assets/11b78ebd-b99c-4dd4-b37a-d6dab093f258)
 ![s3](https://github.com/user-attachments/assets/32079065-bb86-4fd4-86af-29f1590dd3ca)
 ![s4](https://github.com/user-attachments/assets/7b38d8cc-fa9c-4abd-9ef9-9fbc50d1d5c5)
