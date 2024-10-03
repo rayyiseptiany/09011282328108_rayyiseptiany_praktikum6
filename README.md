@@ -28,3 +28,22 @@
 ### 3. **Aktifkan Autentikasi Kunci**: Ubah metode autentikasi menjadi menggunakan kunci (key-based authentication) dengan memastikan opsi `PasswordAuthentication` diatur ke "Yes". 
 ![s11](https://github.com/user-attachments/assets/d80c6488-f8cb-4aaa-bcc7-05034644966a)
 
+# Menginstal Putty
+
+1. Update Repository
+   
+![p1](https://github.com/user-attachments/assets/aa85581e-9bb2-4a57-bb7c-997e29071ba0)
+
+2. Install Putty
+   
+![p2](https://github.com/user-attachments/assets/c9490f3b-770e-4b48-9370-ecef160ff782)
+
+3. Menampilkan versi Putty
+   
+![p3](https://github.com/user-attachments/assets/61d2c201-c1ff-4180-9966-6607a4f9ccda)
+
+4. Tamipaln saat putty dibuka
+   
+![p4](https://github.com/user-attachments/assets/7c1ea441-6a5f-4aa7-9d6d-40ebe76cd988)
+
+
